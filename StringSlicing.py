@@ -1,0 +1,16 @@
+mystr = "The whole world is suffering from covid-19 pandemic"
+print(mystr[::2])
+print(mystr[:10:2])
+print(mystr[10::2])
+print(mystr[::5])
+print(mystr[::-1])
+print(mystr[::-2])
+print(mystr[-20::])
+print(len(mystr))
+print(mystr.upper())
+print(mystr.lower())
+print(mystr.capitalize())
+print(mystr.find("the"))
+print(mystr.find("is"))
+print(mystr.replace("is","are"))
+
